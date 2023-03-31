@@ -3,7 +3,7 @@
 
 Name:		python-%{pkgname}
 Version:	3.1.0
-Release:	1
+Release:	2
 Summary:	Python Utils is a module with some convenient utilities
 Group:		Development/Python
 License:	BSD
