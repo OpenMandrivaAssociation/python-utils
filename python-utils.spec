@@ -2,7 +2,7 @@
 %global pkgname utils
 
 Name:		python-%{pkgname}
-Version:	4.0.0
+Version:	4.1.1
 Release:	1
 Summary:	Python Utils is a module with some convenient utilities
 Group:		Development/Python
