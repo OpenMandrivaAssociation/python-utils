@@ -11,7 +11,8 @@ URL:		https://github.com/WoLpH/python-utils
 Source0:	https://files.pythonhosted.org/packages/source/p/python_utils/python_utils-%{version}.tar.gz
 BuildArch:	noarch
 BuildSystem:	python
-BuildRequires:	python%{pyver}dist(setuptools)
+BuildRequires:	python%{pyver}dist(pip)
+BuildRequires:	python%{pyver}dist(uv-build)
 
 %description
 Python Utils is a module with some convenient utilities not included with the
